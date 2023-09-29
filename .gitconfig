@@ -1,0 +1,7 @@
+[user]
+	name = Abhilash Nambissan
+	email = abhilashjn107@gmail.com
+[credential]
+	helper = store
+[core]
+	editor = vim
